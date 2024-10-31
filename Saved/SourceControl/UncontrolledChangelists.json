@@ -7,6 +7,14 @@
 			"files": [
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/ThirdPerson/Blueprints/BP_Ball.uasset",
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/ThirdPerson/Blueprints/WB_MainMenu.uasset",
+				"C:/Users/B00925235/Documents/GitHub/FlipGame/Content/ThirdPerson/Blueprints/BP_Ball.uasset",
+				"C:/Users/B00925235/Documents/GitHub/FlipGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IE/SWD3UM254B5ZSUYAHSH5UA.uasset",
+				"C:/Users/B00925235/Documents/GitHub/FlipGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/29/FJ4WJ4LL1C9PGSHCXB7Z0U.uasset",
+				"C:/Users/B00925235/Documents/GitHub/FlipGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9A/T2WH637AEQVH0PDMUOGSTM.uasset",
+				"C:/Users/B00925235/Documents/GitHub/FlipGame/Content/ThirdPerson/Blueprints/BP_Plate.uasset",
+				"C:/Users/B00925235/Documents/GitHub/FlipGame/Content/ThirdPerson/Blueprints/BP_Pancake.uasset",
+				"C:/Users/B00925235/Documents/GitHub/FlipGame/Content/ThirdPerson/Blueprints/WB_UI.uasset",
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
@@ -24,8 +32,7 @@
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
 				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
-				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/ThirdPerson/Blueprints/WB_MainMenu.uasset"
+				"C:/Users/B00925235/Documents/Unreal Projects/MobileProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
 			]
 		}
 	]
